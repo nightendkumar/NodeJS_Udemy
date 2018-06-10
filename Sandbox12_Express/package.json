@@ -1,0 +1,14 @@
+{
+  "name": "express_tutorial",
+  "version": "1.0.0",
+  "description": "following tutorial on udemy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "stgr99",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
